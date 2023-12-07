@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<libraryDatabase>
+  <book BK_ID="1" BK_NAME="Програмування" BK_INFO="Посiбник з програмування" BK_DC="1" YEAR="2008" DC_NAME="Програмування">
+    <author AU_ID="1" AU_NAME="Зубенко В.В." />
+    <author AU_ID="2" AU_NAME="Омельчук Л.Л." />
+  </book>
+  <book BK_ID="2" BK_NAME="Математична логiка. Приклади й задачi" BK_INFO="Збiрник прикладiв iз матлогiки" BK_DC="2" YEAR="2022" DC_NAME="Матлогiка">
+    <author AU_ID="3" AU_NAME="Нiкiтченко М.С." />
+    <author AU_ID="4" AU_NAME="Шкiльняк С.С." />
+  </book>
+  <book BK_ID="3" BK_NAME="Програмна iнженерiя" BK_INFO="Посiбник з програмної iнженерiї" BK_DC="1" YEAR="2011" DC_NAME="Програмування">
+    <author AU_ID="5" AU_NAME="Лаврiщева К.М." />
+  </book>
+  <book BK_ID="4" BK_NAME="Збiрник задач з курсу „Диференцiальнi рiвняння”" BK_INFO="Збiрник прикладiв на диференцiйнi рiвняння" BK_DC="3" YEAR="2020" DC_NAME="Диференцiйнi рiвняння">
+    <author AU_ID="6" AU_NAME="Матвiєнко В.П." />
+  </book>
+  <book BK_ID="5" BK_NAME="Математична логiка. Навчальний посiбник" BK_INFO="Теоретичний курс матлогiки" BK_DC="2" YEAR="2022" DC_NAME="Матлогiка">
+    <author AU_ID="1" AU_NAME="Зубенко В.В." />
+    <author AU_ID="4" AU_NAME="Шкiльняк С.С." />
+  </book>
+  <book BK_ID="6" BK_NAME="Збірник задач з лінійної алгебри" BK_INFO="Збірник прикладів та задач із лінійної алгебри" BK_DC="4" YEAR="2010" DC_NAME="Алгебра й геометрія">
+    <author AU_ID="6" AU_NAME="Проскуряков І.В." />
+  </book>
+  <book BK_ID="7" BK_NAME="Посібник з дискретної математики" BK_INFO="Теорія та прикладаи із дискретної математики" BK_DC="5" YEAR="2010" DC_NAME="Дискретна математика">
+    <author AU_ID="6" AU_NAME="Трохимчук Р.В." />
+  </book>
+  <book BK_ID="8" BK_NAME="Задачник з матаналізу" BK_INFO="Теорія та прикладаи із математичного аналізу" BK_DC="6" YEAR="2014" DC_NAME="Математичний аналіз">
+    <author AU_ID="7" AU_NAME="Молодцов О.І." />
+    <author AU_ID="8" AU_NAME="Анікушин А.В." />
+  </book>
+  <book BK_ID="9" BK_NAME="Збірник задач з алгебри" BK_INFO="Збірник прикладів та задач із алгебри" BK_DC="4" YEAR="2001" DC_NAME="Алгебра й геометрія">
+    <author AU_ID="1" AU_NAME="Зубенко В.В." />
+    <author AU_ID="8" AU_NAME="Кострикін А.І." />
+  </book>
+  <book BK_ID="10" BK_NAME="Політологія. Історія та теорія" BK_INFO="Підручник з політології" BK_DC="7" YEAR="2010" DC_NAME="Соціально-політичні студії">
+    <author AU_ID="9" AU_NAME="Шляхтун П.П." />
+  </book>
+</libraryDatabase>

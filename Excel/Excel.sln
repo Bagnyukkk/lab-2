@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excel", "Excel.csproj", "{7ABF52D7-AA26-4035-9C2A-3406910FC9F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parser", "Parser.csproj", "{D308DF90-3486-408E-BF02-82122C92558C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ABF52D7-AA26-4035-9C2A-3406910FC9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABF52D7-AA26-4035-9C2A-3406910FC9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABF52D7-AA26-4035-9C2A-3406910FC9F7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7ABF52D7-AA26-4035-9C2A-3406910FC9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABF52D7-AA26-4035-9C2A-3406910FC9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABF52D7-AA26-4035-9C2A-3406910FC9F7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D308DF90-3486-408E-BF02-82122C92558C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D308DF90-3486-408E-BF02-82122C92558C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D308DF90-3486-408E-BF02-82122C92558C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D308DF90-3486-408E-BF02-82122C92558C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23C6A910-F702-4D04-9AAB-3EF8446AE79A}
+	EndGlobalSection
+EndGlobal
